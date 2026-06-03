@@ -19,7 +19,7 @@ covering 10 product categories, 30 cities, and 10 years (2015–2024).
 - Built an interactive KPI dashboard summarizing ₹ metrics
 
 ## Files
-- `Sales_Analysis_Project.xlsx` — Full workbook with dataset, analysis sheets & dashboard
+- `Sales Proj.xlsx` — Full workbook with dataset, analysis sheets & dashboard
 
 ## Skills Demonstrated
 Excel · Pivot Analysis · Data Cleaning · Business Insights · Dashboard Design
